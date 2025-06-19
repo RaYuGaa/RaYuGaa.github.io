@@ -15,7 +15,7 @@ const terminalCommands = {
 
     "intro": "Hi there! I'm <strong>Samuel Karki</strong>, a student pursuing +2 Science, I am thoroughly invested in the realm of technology. My passion for technology has motivated me to continuously seek out new avenues for self-improvement and knowledge expansion. My areas of focus include web development, cybersecurity, cloud computing, web3, networking, and actually anything tech-related<strong><em>(Jack of all trades, master in none)</em></strong>. I am a driven self-starter who is unwavering in my commitment to honing my skills and staying ahead of the curve in my field. I have taken part in various technologically-focused initiatives, and I am always eager to seize new opportunities to advance my expertise. My ultimate aspiration is to become a recognized thought leader in the technology industry, making a significant positive impact through my work.",
 
-    "age": "Seventeen (17)",
+    "age": "20",
     "birthday": "March 10, 2005",
     "address": "Address Line 1: Biratnagar, Bargachhi, Morang<br>City: Biratnagar<br>Province: 1<br>ZIP Code: 56613<br>Country: Nepal",
     
